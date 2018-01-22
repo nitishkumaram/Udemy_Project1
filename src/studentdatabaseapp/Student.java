@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Student {
 
-	private int noOfStudents;
 	private String firstName;
 	private String lastName;
 	private int gradeYear;
